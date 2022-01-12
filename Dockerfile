@@ -1,4 +1,5 @@
-FROM openjdk:16
+#FROM openjdk:16
+FROm arm32v7/openjdk:11-ea-jdk-slim
 
 ENV JMB_VERSION 0.3.6
 
