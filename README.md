@@ -4,3 +4,5 @@
 [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/craumix/jmusicbot/latest)](https://hub.docker.com/r/craumix/jmusicbot)
 
 A containerized version of the [JMusicBot by jagrosh](https://github.com/jagrosh/MusicBot).
+
+Forked from [craumix/jmb-container](https://github.com/craumix/jmb-container)
