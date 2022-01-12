@@ -5,6 +5,9 @@ echo "Containerized by Craumix https://github.com/Craumix/jmb-container"
 echo "Version: $JMB_VERSION"
 
 cd /jmb/config
+
+ls -la
+
 java -jar -Dnogui=true /jmb/JMusicBot.jar
 
 echo "Seems like java stoped... Waiting for 30 seconds before termination..."

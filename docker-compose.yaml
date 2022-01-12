@@ -2,8 +2,8 @@ version: '2.2'
 
 services:
   jmusicbot:
-    image: craumix/jmusicbot:latest
+    image: alistair/musicbot:latest
     container_name: jmusicbot
     restart: unless-stopped
-    volumes:
-     - ./config:/jmb/config
+#    volumes:
+#     - ./config:/jmb/config
